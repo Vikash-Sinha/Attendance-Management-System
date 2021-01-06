@@ -755,7 +755,7 @@ class login:
         self.root.title("LogIn Page")
         self.frm=Frame(self.root)
         self.frm.pack(fill=BOTH,expand=True)
-        self.bgimg=PhotoImage(file='/home/vikash/Windows_files_and_folder/Vikash_Sinha/d_drive/python/attandaceSystem/images/2.png')
+        self.bgimg=PhotoImage(file='2.png')
         
         self.login=ttk.Label(self.frm, image=self.bgimg)
         self.login.pack(fill=BOTH,expand=True)
