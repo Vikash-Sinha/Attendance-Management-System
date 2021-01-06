@@ -1,4 +1,4 @@
-# Attendance-System
+# Attendance-Management-System
 
 Attendance System Application is mainly design for coaching institute.
 who use biometric attendance system in his institute. 
