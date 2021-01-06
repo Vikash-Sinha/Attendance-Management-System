@@ -8,7 +8,7 @@ then this system also calcuate total absent amount
 you can view update delete records of student teacher staff of that institute.
 
 
-# package required
+# Package Required
 
 
 import tkinter.ttk as ttk
