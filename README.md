@@ -11,14 +11,8 @@ you can view update delete records of student teacher staff of that institute.
 # Package Required
 
 
-import tkinter.ttk as ttk
-from tkinter import *
-from tkcalendar import *
-import datetime
-import time
-from tkinter.ttk import Progressbar
-import xlrd
-from tkinter import filedialog
-
-#mysql connection
-import mysql.connector
+1. mysql.connector
+2. tkinter
+3. datetime
+4. time
+5. xlrd
